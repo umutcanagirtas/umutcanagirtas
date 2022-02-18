@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**umutcanagirtas/umutcanagirtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="display:none;"></h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="right" alt="GIF" height="160px" src="https://user-images.githubusercontent.com/56224909/154765475-621bf6a2-6581-491d-9a15-dea50a0d6f1f.gif" />
+
+
+### I'm Umut Can AĞIRTAŞ Software Engineer
+
+- 👨‍💻 Currently working on web or mobil technologies Java, Python etc.
+- 📚 Learning everything about Software Testing technologies 😉
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I love to play computer games.
+
+---
